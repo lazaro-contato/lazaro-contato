@@ -16,7 +16,6 @@
 [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-l%C3%A1zaro-15a299156/)
 
  
- 
- 
+<br/>:computer: &nbsp; Studying: HTML, CSS, JS & DOM.
  
 
