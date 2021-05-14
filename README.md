@@ -14,7 +14,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3"  width="20" height="20"/>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5"  width="20" height="20"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="20" height="20"/>
- <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="javascript" width="20" height="20"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="javascript" width="30" height="30"/>
 </p>
 
 
