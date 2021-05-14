@@ -19,6 +19,7 @@
 
 
  
-<br/>:computer: &nbsp; Studying: HTML, CSS, JS & DOM.
+<br/>:computer: &nbsp; Studying Front-End: HTML, CSS, JS & DOM.
+<br/>:computer: &nbsp; Studying Back-End:NodeJS
  
 
