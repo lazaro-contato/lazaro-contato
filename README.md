@@ -1,5 +1,5 @@
-<img align="left" src="https://giphy.com/gifs/cbs-tom-hanks-forrest-gump-sally-field-ftqg6fMvi3R9LVcU0t">
-<iframe src="https://giphy.com/embed/ftqg6fMvi3R9LVcU0t" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cbs-tom-hanks-forrest-gump-sally-field-ftqg6fMvi3R9LVcU0t">via GIPHY</a></p>
+<img align="left" src="https://media.giphy.com/media/ftqg6fMvi3R9LVcU0t/source.gif">
+
 
  ### ***The more complex the product, the more complex the process***
  
