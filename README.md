@@ -1,4 +1,4 @@
-<img align="left" src="https://media.giphy.com/media/ftqg6fMvi3R9LVcU0t/source.gif">
+<img align="left" src="https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif">
 
 
  ### ***The more complex the product, the more complex the process***
