@@ -1,15 +1,16 @@
 
 
-<h2> Hi there. </h2>
+<h2> Hi there. :hand: </h2>
 
 I am Lázaro, a technology student with a focus on Front-end development. 
 <br>
-<br> Lover of science and technology that devotes energy with pleasure to unite both. I'm passionate about the idea of creating what you imagine, and I feel extremely good when I solve problems.
+<br> 
+Lover of science and technology that devotes energy with pleasure to unite both. I'm passionate about the idea of creating what you imagine, and I feel extremely good when I solve problems.
 
 <br>
+
 I really enjoy learning and sharing what I learn. Here you can see some posts I made sharing my studies.
 
-<br>
 <br>
 
 * **[06/11/2021]** [ **Gerenciamento de estado com useContext**](https://dev.to/lazarocontato/gerenciamento-de-estado-com-usecontext-11dn).<br>
@@ -18,8 +19,7 @@ I really enjoy learning and sharing what I learn. Here you can see some posts I 
 * **[12/07/2021]** [ **Git - Um breve estudo**](https://dev.to/lazarocontato/git-um-breve-estudo-9gl).<br>
 
 
-<p align="left">Some of the technologies I'm currently studying are NodeJS, Redux and Typescript :computer: &nbsp;
-<br>
+<p align="left"> Some of the technologies I'm currently studying are NodeJS, Redux and Typescript :computer: &nbsp; </p>
  
  <br>
 
@@ -36,9 +36,14 @@ I really enjoy learning and sharing what I learn. Here you can see some posts I 
    <a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img></a>
    <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>  
  </p>
-</p>
 
 <br>
+
+<h2> Some projects </h2>
+
+* [ **A pixel to rem calculator**](https://pixeltorem.netlify.app/).<br>
+
+
 
 <h2> Contact me. </h2>
 <p> Please contact me using one of the links below.
