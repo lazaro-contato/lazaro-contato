@@ -67,4 +67,4 @@ I really enjoy learning and sharing what I learn. Here you can see some posts I 
 </center>
 
 
-***The more complex the product, the more complex the process***
+***The more complex the product, the more complex the process.***
