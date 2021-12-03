@@ -1,5 +1,7 @@
 
 
+![main](https://github.com/lazaro-contato/images-repo/blob/master/main.png)
+
 <h2> Hi there. :hand: </h2>
 
 I am Lázaro, a technology student with a focus on Front-end development. 
