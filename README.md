@@ -47,7 +47,8 @@ I really enjoy learning and sharing what I learn. Here you can see some posts I 
 *[Repository](https://github.com/lazaro-contato/pixeltorem)*
 * [ **TMB Calculator**](https://calories-react.netlify.app/).<br>
 *[Repository](https://github.com/lazaro-contato/calories)*
-
+* [ **Rest countries consumer**](https://rest-countries-consumer.netlify.app/).<br>
+*[Repository](https://github.com/lazaro-contato/restcountriesapi)*
 
 
 <h2> Contact me. </h2>
