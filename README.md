@@ -1,13 +1,14 @@
 
 
-![main](https://github.com/lazaro-contato/images-repo/blob/master/main.png)
+![main](https://github.com/lazaro-contato/images-repo/blob/master/main2.png)
 
 <h2> Hi there. :hand: </h2>
 
-I am Lázaro, a technology student with a focus on Front-end development. 
+I am Lázaro, a Software Developer with focus on Front-end development. 
 <br>
 <br> 
 Lover of science and technology that devotes energy with pleasure to unite both. I'm passionate about the idea of creating what you imagine, and I feel extremely good when I solve problems.
+
 
 <br>
 
