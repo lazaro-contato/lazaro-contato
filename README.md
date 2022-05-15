@@ -1,18 +1,7 @@
-
-
-![main](https://github.com/lazaro-contato/images-repo/blob/master/main2.png)
-
-<h2> Hi there. :hand: </h2>
-
 I am Lázaro, a Software Developer with focus on Front-end development. 
 <br>
-<br> 
-Lover of science and technology that devotes energy with pleasure to unite both. I'm passionate about the idea of creating what you imagine, and I feel extremely good when I solve problems.
 
-
-<br>
-
-I really enjoy learning and sharing what I learn. Here you can see some posts I made sharing my studies.
+Here you can see some posts I made sharing my studies.
 
 <br>
 
@@ -21,9 +10,6 @@ I really enjoy learning and sharing what I learn. Here you can see some posts I 
 * **[28/07/2021]** [ **Consultando API de CEP com Fetch**](https://dev.to/lazarocontato/consultado-api-de-cep-com-fetch-3h9b).<br>
 * **[12/07/2021]** [ **Git - Um breve estudo**](https://dev.to/lazarocontato/git-um-breve-estudo-9gl).<br>
 
-
-<p align="left"> Some of the technologies I'm currently studying are NodeJS, Redux and Typescript :computer: &nbsp; </p>
- 
  <br>
 
 <h2>Technologies & Tools.</h2>
@@ -31,8 +17,6 @@ I really enjoy learning and sharing what I learn. Here you can see some posts I 
    <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img></a>
    <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img></a>
    <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img></a>
-   <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img></a>
-   <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img></a>
    <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img></a>
    <a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></img></a>
    <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img></a>
