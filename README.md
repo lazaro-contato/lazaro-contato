@@ -1,47 +1,37 @@
-I am Lázaro, a Software Developer with focus on Front-end development. 
+Hello, I’m Lázaro, a Software Engineer focused on delivering high-
+performance, scalable, and user-friendly applications. I promote
+seamless user experiences, application optimization, and continuous
+improvements in code quality and performance. My approach
+emphasizes responsiveness, maintainability, and efficient workflows to
+meet both user needs and business goals.
 <br>
 
-Here you can see some posts I made sharing my studies.
-
+Here you can see some of my work and content.
 <br>
 
-* **[06/11/2021]** [ **Gerenciamento de estado com useContext**](https://dev.to/lazarocontato/gerenciamento-de-estado-com-usecontext-11dn).<br>
-* **[12/10/2021]** [ **Criando projetos em ReactJS**](https://dev.to/lazarocontato/criando-projetos-em-react-31pkn).<br>
-* **[28/07/2021]** [ **Consultando API de CEP com Fetch**](https://dev.to/lazarocontato/consultado-api-de-cep-com-fetch-3h9b).<br>
-* **[12/07/2021]** [ **Git - Um breve estudo**](https://dev.to/lazarocontato/git-um-breve-estudo-9gl).<br>
+[**Portfolio**](https://devlazaro.netlify.app/).<br>
+[**Some of my posts**](https://dev.to/lazarocontato).<br>
 
  <br>
 
-<h2>Technologies & Tools.</h2>
+<h2>Technologies</h2>
 <p align="left">
-   <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img></a>
-   <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img></a>
-   <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img></a>
-   <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img></a>
-   <a><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></img></a>
-   <a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img></a>
-   <a><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img></a>
-   <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>  
- </p>
+**Programming Languages:** TypeScript, JavaScript
+**JS Tools:** ReactJS, React Native, Next.js.
+**Spoken Languages:** Advanced English, Native Portuguese.
+**Testing:** Experienced with Jest and React Testing Library to ensure code quality and reliability.
+**Styling:** Sass, Styled Components, Bootstrap, Material UI, Chakra UI, Tailwind, CSS Modules.
+**API:** GraphQL, REST.
+**Technologies Studied in Personal Projects:** Python, Node.js.
+</p>
 
 <br>
-
-<h2> Some projects </h2>
-
-* [ **A pixel to rem calculator**](https://pixeltorem.netlify.app/).<br>
-*[Repository](https://github.com/lazaro-contato/pixeltorem)*
-* [ **TMB Calculator**](https://calories-react.netlify.app/).<br>
-*[Repository](https://github.com/lazaro-contato/calories)*
-* [ **Rest countries consumer**](https://rest-countries-consumer.netlify.app/).<br>
-*[Repository](https://github.com/lazaro-contato/restcountriesapi)*
-
 
 <h2> Contact me. </h2>
 <p> Please contact me using one of the links below.
 
 [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-l%C3%A1zaro-15a299156/)
-[![Github Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.jlazaro@gmail.com?subject=Ol%C3%A1,%20L%C3%A1zaro)
-[![Github Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/lazarocontato)
+[![Github Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.jlazaro@gmail.com?subject=Ol%C3%A1,%20L%C3%A1zaro)
 
 <br>
 
