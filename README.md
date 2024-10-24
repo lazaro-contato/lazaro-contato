@@ -1,28 +1,31 @@
-Hello, I’m Lázaro, a Software Engineer focused on delivering high-
+
+<h2>Hello, I’m Lázaro.</h2>
+Software Engineer focused on delivering high-
 performance, scalable, and user-friendly applications. I promote
 seamless user experiences, application optimization, and continuous
 improvements in code quality and performance. My approach
 emphasizes responsiveness, maintainability, and efficient workflows to
 meet both user needs and business goals.
-<br>
 
-Here you can see some of my work and content.
-<br>
+<br />
+
+
+<h2>Here you can see some of my work and content.</h2>
 
 [**Portfolio**](https://devlazaro.netlify.app/).<br>
 [**Some of my posts**](https://dev.to/lazarocontato).<br>
 
- <br>
+ <br/>
 
 <h2>Technologies</h2>
 <p align="left">
-**Programming Languages:** TypeScript, JavaScript
-**JS Tools:** ReactJS, React Native, Next.js.
-**Spoken Languages:** Advanced English, Native Portuguese.
-**Testing:** Experienced with Jest and React Testing Library to ensure code quality and reliability.
-**Styling:** Sass, Styled Components, Bootstrap, Material UI, Chakra UI, Tailwind, CSS Modules.
-**API:** GraphQL, REST.
-**Technologies Studied in Personal Projects:** Python, Node.js.
+<p>Programming Languages: TypeScript, JavaScript.<br></p>
+<p>JS Tools: ReactJS, React Native, Next.js.<br></p>
+<p>Testing: Experienced with Jest and React Testing Library to ensure code quality and reliability.<br></p>
+<p>Styling: Sass, Styled Components, Bootstrap, Material UI, Chakra UI, Tailwind, CSS Modules.<br></p>
+<p>API: GraphQL, REST.<br></p>
+<p>Spoken Languages: Advanced English, Native Portuguese.<br></p>
+<p>Technologies Studied in Personal Projects:** Python, Node.js.<br></p>
 </p>
 
 <br>
